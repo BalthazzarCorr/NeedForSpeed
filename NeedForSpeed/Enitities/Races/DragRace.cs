@@ -1,4 +1,3 @@
-﻿
-class DragRace : Race
+﻿class DragRace : Race
 {
 }
