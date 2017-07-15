@@ -1,3 +1,0 @@
-﻿class DragRace : Race
-{
-}
